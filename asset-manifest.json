@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/project-react-counter/static/css/main.de5ca3e7.chunk.css",
+    "main.js": "/project-react-counter/static/js/main.bd5b33cf.chunk.js",
+    "main.js.map": "/project-react-counter/static/js/main.bd5b33cf.chunk.js.map",
+    "runtime-main.js": "/project-react-counter/static/js/runtime-main.fbd606e0.js",
+    "runtime-main.js.map": "/project-react-counter/static/js/runtime-main.fbd606e0.js.map",
+    "static/js/2.5d2507d2.chunk.js": "/project-react-counter/static/js/2.5d2507d2.chunk.js",
+    "static/js/2.5d2507d2.chunk.js.map": "/project-react-counter/static/js/2.5d2507d2.chunk.js.map",
+    "index.html": "/project-react-counter/index.html",
+    "precache-manifest.8f0a95db34a84d174ceace529848d7b1.js": "/project-react-counter/precache-manifest.8f0a95db34a84d174ceace529848d7b1.js",
+    "service-worker.js": "/project-react-counter/service-worker.js",
+    "static/css/main.de5ca3e7.chunk.css.map": "/project-react-counter/static/css/main.de5ca3e7.chunk.css.map",
+    "static/media/logo-top.png": "/project-react-counter/static/media/logo-top.4c2b9598.png",
+    "static/media/logo.svg": "/project-react-counter/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbd606e0.js",
+    "static/js/2.5d2507d2.chunk.js",
+    "static/css/main.de5ca3e7.chunk.css",
+    "static/js/main.bd5b33cf.chunk.js"
+  ]
+}
